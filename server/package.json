@@ -9,6 +9,7 @@
   "eject": "react-scripts eject"
 },
   "dependencies": {
+    "@remix-run/dev": "^1.25.2",
     "@prisma/client": "^6.11.1",
     "bcrypt": "^5.1.0",
     "body-parser": "^1.20.2",
